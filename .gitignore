@@ -1,0 +1,8 @@
+exec/yorijori_backup.sql
+yorijori_backup_part_*
+*.log
+*.env
+exec/yorijori_backup.sql
+yorijori_backup_part_*
+*.log
+*.env
